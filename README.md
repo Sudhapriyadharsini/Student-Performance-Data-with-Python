@@ -28,4 +28,12 @@ The data is related with Student performance analyisis. The student data about m
 3. Boxplot / Pairplot
 4. confusion matrix
 
+### Explaination
+
+On the heatmap, you can see correlation not only with the target variable, but also the variables between each other. For example, there is a strong correlation between father’s and mother’s education, the amount of time the student goes out and the alcohol consumption, number of failures and age of the student, etc. The exploration of correlations is one of the most important steps in EDA. It allows understanding which features may be useful, which are redundant, and which new features can be created artificially.
+
+### Conclusion
+
+We have also shown how to connect to your data lake using Dremio, as well as Dremio and Python code. During the work, we used Matplotlib and Seaborn packages.
+
 
