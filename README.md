@@ -10,3 +10,22 @@ Data analysis and data visualization are essential components of data science. A
 4. dealing with missing and incorrect values,
 5. turning categorical columns into dummy variables.
 6. Use machine learning techniques to predict the marketing campaign outcome and to find out factors, which affect the success of the campaign.
+
+### Libraries involved
+
+1. Pandas
+2. Numpy
+3. Seaborn
+4. Matplotlib
+
+### Database descriptions
+
+The data is related with Student performance analyisis. The student data about male, female students their areas and father and mother jobs and anlysis the performance of students.
+
+### Visualizations
+1. Histrogram
+2. Correlation
+3. Boxplot / Pairplot
+4. confusion matrix
+
+
